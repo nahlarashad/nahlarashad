@@ -4,7 +4,9 @@
 
 ### About Me
 
-I'm a Computer Science and Artificial Intelligence student at **Cairo University** with strong experience in:
+Technical Trainer at Instant Software Solutions, mentoring students in Machine Learning, Deep Learning, and Data Analysis, and a Computer Science and Artificial Intelligence student at **Cairo University**.
+
+I have strong experience in:
 
 - **Machine Learning & Deep Learning**
 - **Natural Language Processing (NLP)**
@@ -15,6 +17,5 @@ I'm a Computer Science and Artificial Intelligence student at **Cairo University
 💡 Passionate about turning data into insights and building intelligent, real-world solutions with scalable and clean architecture.
 
 ---
-
 
 <!-- Proudly created and maintained by Nahla Rashad -->
