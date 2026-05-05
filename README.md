@@ -1,16 +1,20 @@
-## Hi there 👋
+<h4 align="left"> AI & Data Analyst | Turning Data into Insights & Intelligent Solutions</h4>
 
-<!--
-**nahlarashad/nahlarashad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Artificial Intelligence student at **Cairo University** with strong experience in:
+
+- **Machine Learning & Deep Learning**
+- **Natural Language Processing (NLP)**
+- **Computer Vision**
+- **Data Analysis & Data Visualization (Excel, Power BI, Pandas)**
+- **Backend Development with FastAPI**
+
+💡 Passionate about turning data into insights and building intelligent, real-world solutions with scalable and clean architecture.
+
+---
+
+
+<!-- Proudly created and maintained by Nahla Rashad -->
