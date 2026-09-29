@@ -4,7 +4,7 @@
 
 ### About Me
 
-Technical Trainer at Instant Software Solutions, mentoring students in Machine Learning, Deep Learning, and Data Analysis, and a Computer Science and Artificial Intelligence student at **Cairo University**.
+AI Mentor at ROUTE Academy, mentoring students in Machine Learning andDeep Learning, Cairo University graduate Majoring at Artificial Intelligent
 
 I have strong experience in:
 
